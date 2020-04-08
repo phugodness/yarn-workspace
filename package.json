@@ -1,0 +1,13 @@
+{
+  "name": "yarn-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:phugodness/yarn-workspace.git",
+  "author": "Truong Van Phu <phugodness@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "src/yarn-workspace-backend",
+    "src/yarn-workspace-frontend"
+  ]
+}
