@@ -1,6 +1,6 @@
 [submodule "src/yarn-workspace-frontend"]
-	path = src/yarn-workspace-frontend
+	path = src/applications/yarn-workspace-frontend
 	url = git@github.com:phugodness/yarn-workspace-frontend.git
 [submodule "src/yarn-workspace-backend"]
-	path = src/yarn-workspace-backend
+	path = src/applications/yarn-workspace-backend
 	url = git@github.com:phugodness/yarn-workspace-backend.git
