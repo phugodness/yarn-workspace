@@ -4,3 +4,6 @@
 [submodule "src/yarn-workspace-backend"]
 	path = src/applications/yarn-workspace-backend
 	url = git@github.com:phugodness/yarn-workspace-backend.git
+[submodule "src/packages/say-hello"]
+	path = src/packages/say-hello
+	url = git@github.com:phugodness/say-hello.git
